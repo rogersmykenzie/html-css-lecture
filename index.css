@@ -1,0 +1,31 @@
+.animal {
+    color: blue;
+    font-size: 70px;
+}
+.my-first-div {
+    width: 80vw;
+    margin: auto;
+    height: 100px;
+    background-color: red;
+    /* background-image: url("https://afar-production.imgix.net/uploads/images/afar_post_headers/images/s6P1cWj2kE/original_hawaii_202019.jpg?1549673493?ixlib=rails-0.3.0&fit=crop&h=700&w=1600") */
+}
+.my-second-div {
+    width: 50%;
+    height: 100px;
+    background-color: blue;
+}
+.my-second-div {
+    background-color: green;
+}
+#tiger {
+    font-size: 30px;
+    color: green;
+    border: 2px solid black;
+    padding-left: 30px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    margin: 100px;
+}
+body {
+    color: blue;
+}
